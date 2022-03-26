@@ -1,0 +1,11 @@
+C:\Users\sanaypc\source\repos\average\average\bin\Debug\netcoreapp2.2\average.deps.json
+C:\Users\sanaypc\source\repos\average\average\bin\Debug\netcoreapp2.2\average.runtimeconfig.json
+C:\Users\sanaypc\source\repos\average\average\bin\Debug\netcoreapp2.2\average.runtimeconfig.dev.json
+C:\Users\sanaypc\source\repos\average\average\bin\Debug\netcoreapp2.2\average.dll
+C:\Users\sanaypc\source\repos\average\average\bin\Debug\netcoreapp2.2\average.pdb
+C:\Users\sanaypc\source\repos\average\average\obj\Debug\netcoreapp2.2\average.csproj.CoreCompileInputs.cache
+C:\Users\sanaypc\source\repos\average\average\obj\Debug\netcoreapp2.2\average.AssemblyInfoInputs.cache
+C:\Users\sanaypc\source\repos\average\average\obj\Debug\netcoreapp2.2\average.AssemblyInfo.cs
+C:\Users\sanaypc\source\repos\average\average\obj\Debug\netcoreapp2.2\average.dll
+C:\Users\sanaypc\source\repos\average\average\obj\Debug\netcoreapp2.2\average.pdb
+C:\Users\sanaypc\source\repos\average\average\obj\Debug\netcoreapp2.2\average.csprojAssemblyReference.cache
